@@ -1,5 +1,6 @@
-# 02-Dashboard-Vendas-PowerBI
+#Análise de Vendas com Power BI
 Dashboard de vendas desenvolvido em Power BI para análise de faturamento, lucro, ticket médio e desempenho de produtos.
+
 # Dashboard de Vendas | Power BI
 
 ## Objetivo
@@ -14,7 +15,7 @@ Desenvolver um dashboard interativo para análise de desempenho de vendas, permi
 * Visualização de Dados
 * Modelagem de Dados
 
-## Indicadores Monitorados
+## KPIs Monitorados
 
 * Faturamento Total
 * Lucro Total
@@ -50,6 +51,7 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 * Criação de dashboards interativos
 * Visualização de dados para apoio à tomada de decisão
 * Organização e validação de informações para análise de negócio
+* • Utilização de Inteligência Artificial como apoio à pesquisa, aprendizado e resolução de desafios técnicos durante o desenvolvimento do projeto.
 
 ## Dashboard
 
@@ -67,6 +69,6 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 Estatística Aplicada | Power BI | Excel | SQL | Análise de Dados
 
-<img width="568" height="319" alt="image" src="https://github.com/user-attachments/assets/b0e87801-5952-4d41-85e2-b92b98510e19" />
+
 
 
