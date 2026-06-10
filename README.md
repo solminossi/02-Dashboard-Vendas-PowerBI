@@ -41,7 +41,7 @@ Comparação de desempenho entre as categorias de produtos.
 
 Análise interativa dos indicadores por período.
 
-## Principais Aprendizados
+##Aprendizados principais
 
 Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
